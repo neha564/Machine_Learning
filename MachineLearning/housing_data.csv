@@ -1,0 +1,13 @@
+town,area,price,monroe_township,west_windsor,robbinsville
+monroe township,2600,550000,1,0,0
+monroe township,3000,565000,1,0,0
+monroe township,3200,610000,1,0,0
+monroe township,3600,680000,1,0,0
+monroe township,4000,725000,1,0,0
+west windsor,2600,585000,0,1,0
+west windsor,2800,615000,0,1,0
+west windsor,3300,615000,0,1,0
+west windsor,3600,710000,0,1,0
+robbinsville,2600,575000,0,0,1
+robbinsville,2900,620000,0,0,1
+robbinsville,3100,650000,0,0,1
